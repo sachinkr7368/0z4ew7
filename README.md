@@ -17,7 +17,7 @@ These are the requirements:
 
 Users API:
 
-We provide you an Users API to list all the users and their properties.
+we have Users API to list all the users and their properties.
 
 Endpoint: https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
                       
